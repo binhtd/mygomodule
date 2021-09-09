@@ -1,3 +1,3 @@
-module github.com/binhtd/mogomodule
+module github.com/binhtd/mygomodule
 
 go 1.16

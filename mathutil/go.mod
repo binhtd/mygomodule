@@ -1,3 +1,3 @@
-module github.com/binhtd/mogomodule/mathutil
+module github.com/binhtd/mygomodule/mathutil
 
 go 1.16
