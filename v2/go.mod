@@ -1,3 +1,3 @@
-module github.com/binhtd/golang-techmaster/tree/master/day3/samples-code/mogomodule/v2
+module github.com/binhtd/mogomodule/v2
 
 go 1.16
